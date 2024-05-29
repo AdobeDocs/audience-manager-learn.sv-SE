@@ -9,9 +9,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
+source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,9 @@ ht-degree: 0%
 
 Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ger er en bättre förståelse för hur ni kan använda Adobe Audience Manager för att skapa och aktivera målgrupper i alla kanaler och enheter med hjälp av Adobe i toppklass [!DNL data management platform].
 
-* Se **&quot;What&#39;s New&quot;** för de senaste uppdateringarna och funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och ämne i **vänster navigering**
 * Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
