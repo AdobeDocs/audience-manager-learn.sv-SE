@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 5a1fb5f5-45cd-4ede-924b-1d2b92cfec92
 source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ När du skapar, redigerar eller tar bort egenskaper kan det vara ineffektivt och
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Mer information, inklusive nedladdning av BAAAM-kalkylbladet, finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Mer information, inklusive hämtning av BAAAM-kalkylbladet, finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).

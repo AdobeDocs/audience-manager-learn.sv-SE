@@ -1,5 +1,5 @@
 ---
-title: Dataflödet i Audience Manager
+title: Förstå dataflödet i Audience Manager
 description: I den här videon får du hjälp att förstå Adobe Audience Manager genom att beskriva dataflödet in i, genom och ut från programmet.
 feature: Overview
 topics: null

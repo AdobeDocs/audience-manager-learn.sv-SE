@@ -13,17 +13,17 @@ level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
 source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# Förbättra era segment med [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Förbättra dina segment med [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-Med [!UICONTROL Trait Recommendations]när du skapar eller redigerar ett segment i [!UICONTROL Segments]får du rekommendationer om vilka egenskaper du kan inkludera som liknar egenskaperna i segmentregeln.
+När du skapar eller redigerar ett segment i [!UICONTROL Segments] med [!UICONTROL Trait Recommendations] får du rekommendationer om ytterligare egenskaper som du kan inkludera, som liknar egenskaperna i segmentregeln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] arbeta med både egna data och data från tredje part, så att du kan inkludera ytterligare rekommenderade [!UICONTROL Traits] och öka er målgrupp.
+[!UICONTROL Trait Recommendations] arbetar med både egna data och tredjepartsdata, så att du kan ta med ytterligare rekommenderade [!UICONTROL Traits] och öka målgruppen.
 
-Mer information om den här funktionen finns på [dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Mer information om den här funktionen finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

@@ -1,5 +1,5 @@
 ---
-title: Introduktion till identitet i Audience Manager
+title: Introduktion till Identitet i Audience Manager
 description: Upptäck hur Audience Manager hanterar identitet – inklusive interna profiler och profilsammanslagning samt ID-synkronisering med partners.
 landing-page-description: Upptäck hur Audience Manager hanterar identitet – inklusive interna profiler och profilsammanslagning samt ID-synkronisering med partners.
 short-description: Upptäck hur Audience Manager hanterar identitet – inklusive interna profiler och profilsammanslagning samt ID-synkronisering med partners.
@@ -20,7 +20,7 @@ ht-degree: 57%
 
 ---
 
-# Introduktion till identitet i Audience Manager
+# Introduktion till Identitet i Audience Manager
 
 I den här videon får du lära dig hur Adobe Audience Manager hanterar identitet, inklusive interna profiler, profilsammanslagning och ID-synkronisering med partners.
 

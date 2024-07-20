@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Översikt över [!UICONTROL Profile Merge Rules]
 
-Förstå vad [!UICONTROL Profile Merge Rules] är hur de fungerar och deras värde för marknadsföraren.
+Förstå vad [!UICONTROL Profile Merge Rules] är, hur de fungerar och deras värde för marknadsföraren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

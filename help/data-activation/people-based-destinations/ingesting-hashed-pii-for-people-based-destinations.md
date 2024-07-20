@@ -1,6 +1,6 @@
 ---
 title: Ingest hashed PII for People-based Destinations
-description: I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hash-kodade e-postadresser.
+description: I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hashade e-postadresser.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Ingest hashed PII for People-based Destinations
 
-I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hash-kodade e-postadresser. Detta gör att du kan skicka de streckade e-postadresserna till personbaserade mål, som [!DNL Facebook].
+I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hashade e-postadresser. Detta gör att du kan skicka hash-kodade e-postadresser till personbaserade mål, som [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

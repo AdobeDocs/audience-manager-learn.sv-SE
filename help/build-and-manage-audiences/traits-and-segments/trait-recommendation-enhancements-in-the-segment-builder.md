@@ -12,15 +12,15 @@ level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # [!DNL Trait Recommendation] förbättringar i segmentering
 
-I den här videon får du lära dig hur du använder de uppdaterade traits-rekommendationerna i [!UICONTROL Segments], som [!UICONTROL Audience Marketplace] rekommendationer. Dessa ger er ytterligare insikter i tredjepartsdata som kan utöka era segments räckvidd.
+I den här videon får du lära dig hur du använder de uppdaterade trait-rekommendationerna i [!UICONTROL Segments], som är [!UICONTROL Audience Marketplace] rekommendationer. Dessa ger er ytterligare insikter i tredjepartsdata som kan utöka era segments räckvidd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

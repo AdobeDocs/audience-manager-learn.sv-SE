@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising and Adobe Audience Manager Integration
+title: Integrering med Adobe Advertising och Adobe Audience Manager
 description: Se hur integrationen mellan Adobe Audience Manager och Adobe Advertising fungerar. Få även svar om matchningsfrekvenser och cookie-synkning från tredje part.
 feature: Advertising Integration
 topics: null
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Advertising and Adobe Audience Manager Integration
+# Integrering med Adobe Advertising och Adobe Audience Manager
 
-Läs om integrationen mellan Adobe Audience Manager och [!DNL Adobe Advertising] fungerar. Få även svar på matchningsfrekvenser och cookie-synkning från tredje part.
+Lär dig hur integreringen mellan Adobe Audience Manager och [!DNL Adobe Advertising] fungerar. Få även svar på matchningsfrekvenser och cookie-synkning från tredje part.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

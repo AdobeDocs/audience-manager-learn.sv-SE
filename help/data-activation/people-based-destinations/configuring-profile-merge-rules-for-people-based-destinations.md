@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera [!UICONTROL Profile Merge Rules] för personbaserade destinationer
+# Konfigurera [!UICONTROL Profile Merge Rules] för personbaserade mål
 
-I den här videon får du lära dig hur du konfigurerar en [!UICONTROL Profile Merge Rule] som ska användas för personbaserade destinationer, inklusive när ett helt nytt alternativ för olika enheter ska användas.
+I den här videon får du lära dig hur du konfigurerar en [!UICONTROL Profile Merge Rule] som ska användas för personbaserade destinationer, inklusive när du ska använda ett helt nytt alternativ för olika enheter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

@@ -1,5 +1,5 @@
 ---
-title: Förbättringar av profilkopplingsregel - förutsättningar
+title: Förbättrade regler för profilsammanslagning - förutsättningar
 description: En översikt över hur du bäst förbereder dig för att släppa förbättringar av profilkopplingsregel.
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] förbättringar - krav
+# [!UICONTROL Profile Merge Rule] förbättringar - förutsättningar
 
-En översikt över hur du bäst förbereder dig för releasen av [!UICONTROL Profile Merge Rule] förbättringar.
+En översikt över hur du bäst förbereder dig för utgåvan av [!UICONTROL Profile Merge Rule]-förbättringarna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

@@ -24,7 +24,7 @@ I den här videon får du lära dig hur du skapar en modell som ser likadan ut s
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
-Användningsexempel:
+Användningsexempel för detta:
 
 * Om ert&quot;konverterarlager&quot; säljs vidare kan ni som utgivare utöka det genom att även sälja den här lookalike-målgruppen.
 * För dem som ser ut som dina konverterare men ännu inte har det, ger du dem specifik marknadsföring eller upplevelse på webbplatsen.

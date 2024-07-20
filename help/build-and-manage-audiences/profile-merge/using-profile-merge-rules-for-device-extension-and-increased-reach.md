@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Använd [!UICONTROL Profile Merge Rules] för enhetstillägg och ökad räckvidd
 
-Använd [!UICONTROL Profile Merge Rules] för att nå ut till alla användarens enheter, så att du kan marknadsföra till människor istället för till enheter.
+Använd [!UICONTROL Profile Merge Rules] om du vill utöka räckvidden till alla användarens enheter, så att du kan marknadsföra till personer i stället för till enheter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

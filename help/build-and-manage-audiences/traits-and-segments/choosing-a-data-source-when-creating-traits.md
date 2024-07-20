@@ -1,6 +1,6 @@
 ---
 title: Välj en datakälla när du skapar egenskaper
-description: Ett av de viktiga fälten som ska fyllas i när egenskaper skapas är fältet Datakälla. Få tips om hur du väljer rätt datakälla för regelbaserade och anpassade egenskaper.
+description: Ett av de viktiga fälten som ska fyllas i när du skapar egenskaper är fältet Data Source. Få tips om hur du väljer rätt datakälla för regelbaserade och anpassade egenskaper.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Välj en datakälla när du skapar egenskaper
 
-Ett av de viktiga fälten som ska fyllas i när du skapar egenskaper är [!UICONTROL Data Source] fält. Få tips om hur du väljer rätt datakälla för regelbaserade och anpassade egenskaper.
+Ett av de viktiga fälten som ska fyllas i när egenskaper skapas är fältet [!UICONTROL Data Source]. Få tips om hur du väljer rätt datakälla för regelbaserade och anpassade egenskaper.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

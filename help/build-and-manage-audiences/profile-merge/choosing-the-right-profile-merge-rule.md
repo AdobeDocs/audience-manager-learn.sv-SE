@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Välja höger [!UICONTROL Profile Merge Rule]
+# Välja rätt [!UICONTROL Profile Merge Rule]
 
-I den här videon kan du se tre av de vanligaste användningsexemplen för [!UICONTROL Profile Merge Rules]och hur de kan hjälpa er marknadsföringssatsning.
+I den här videon kan du identifiera tre av de vanligaste användningsexemplen för [!UICONTROL Profile Merge Rules] och hur de kan hjälpa din marknadsföring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

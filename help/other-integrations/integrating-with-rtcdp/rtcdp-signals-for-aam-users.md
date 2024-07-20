@@ -11,7 +11,7 @@ kt: 7305
 exl-id: 96f841c9-d185-4b0b-b0de-e4ea708b518c
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -26,5 +26,5 @@ Den här videon är avsedd för användare av Audience Manager som flyttar till 
 
 Nedan finns videor och resurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
-* [Understanding Traits in Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
+* [Förstå egenskaper i CDP för Audience Manager i realtid](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
 * [Förstå segment i CDP för Audience Manager i realtid](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)

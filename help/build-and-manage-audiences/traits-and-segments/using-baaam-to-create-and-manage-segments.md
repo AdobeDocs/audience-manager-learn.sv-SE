@@ -1,6 +1,6 @@
 ---
 title: Skapa och hantera segment med BAAAM
-description: Använd BAAAM-verktyget i Audience Manager för att skapa och hantera flera segment samtidigt, placera dem i mappar, lägga till egenskaper i segmentregeln, mappa dem till mål osv.
+description: Använd BAAAM-verktyget i Audience Manager för att skapa och hantera flera segment samtidigt, placera dem i mappar, lägga till egenskaper i segmentregeln, mappa dem till mål, osv.
 feature: baaam
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Skapa och hantera segment med BAAAM
 
-Använd BAAAM-verktyget i Audience Manager för att skapa och hantera flera segment samtidigt, placera dem i mappar, lägga till egenskaper i segmentregeln, mappa dem till mål osv.
+Använd BAAAM-verktyget i Audience Manager för att skapa och hantera flera segment samtidigt, placera dem i mappar, lägga till egenskaper i segmentregeln, mappa dem till mål, osv.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)

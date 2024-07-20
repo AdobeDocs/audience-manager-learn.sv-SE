@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Skapa en datakälla för olika enheter och autentisera
 
-När du vill överföra dina CRM-data från första part till Audience Manager för att nå dina kunder bättre, måste du först skapa en datakälla för olika enheter för att lagra CRM-ID:n och data. Detta visar hur du gör det och hur du ställer in `setCustomerIDs()` i Experience Platform-taggar för inloggningar.
+När du vill överföra dina CRM-data från första part till Audience Manager för att nå dina kunder bättre, måste du först skapa en datakälla för olika enheter för att lagra CRM-ID:n och data. Här visas hur du gör det och ställer in metoden `setCustomerIDs()` i Experience Platform-taggar för inloggningar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

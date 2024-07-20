@@ -14,7 +14,7 @@ level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Förstå huvudutmaningarna med kanalövergripande personalisering och hur Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

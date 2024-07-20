@@ -1,6 +1,6 @@
 ---
 title: Använda tagghanterare för att implementera Audience Manager
-description: Lär dig grunderna i hur du implementerar Adobe Audience Manager när du använder en tagghanteringslösning.
+description: Lär dig grunderna i hur du implementerar Adobe Audience Manager med en tagghanteringslösning.
 feature: Implementation Basics
 topics: null
 activity: implement

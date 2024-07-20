@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Hur en datahanteringsplattform kan förändra ert företag
 
-[!DNL Data Management Platforms] är teknikvärldens prat just nu, men vad är de och ännu viktigare, hur kan de hjälpa er när marknadsförarna uppnår era mål?
+[!DNL Data Management Platforms] är teknikvärldens prat just nu, men vad är de och ännu viktigare, hur kan de hjälpa dig när marknadsförarna uppnår dina mål?
 
 Under det här seminariet kommer vi att förklara vad en datahanteringsplattform är och visa upp några fallstudier i verkliga miljöer där kunderna har fått enastående avkastning på sin investering, från mer effektiva medieinköp till avsevärt ökade konverteringar.
 

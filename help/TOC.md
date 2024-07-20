@@ -1,21 +1,21 @@
 ---
 user-guide-title: Självstudiekurser om Adobe Audience Manager
 user-guide-description: En samling videor och självstudiekurser om Adobe Analytics.
-breadcrumb-title: Självstudiekurser för Audience Manager
+breadcrumb-title: Självstudiekurser om Audience Manager
 solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '895'
 ht-degree: 2%
 
 ---
 
 
-# Självstudiekurser för Audience Manager {#tutorials}
+# Självstudiekurser om Audience Manager {#tutorials}
 
 + [Självstudiekurser för Audience Manager](overview.md)
-+ Intro till Audience Manager {#intro-to-audience-manager}
++ Introduktion till Audience Manager {#intro-to-audience-manager}
    + [Hur en datahanteringsplattform kan förändra ert företag](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Översikt över en datahanteringsplattform](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Användningsexempel i Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -26,9 +26,9 @@ ht-degree: 2%
       + [Mäta avkastningen i ett fall där kunden undertrycks](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Branschnyheter och trender {#industry}
    + [Framtiden för datahantering och den föränderliga miljön](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [10 saker att tänka på vid en ansvarsfull hantering av kunddata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [En tabell med två perceptioner - varumärken jämfört med konsumenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Utveckla ditt Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [10 saker att tänka på vid ansvarsfull kunddatahantering](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [En tabell med två perceptioner - Varumärken jämfört med konsumenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Utvecklar ditt Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
    + [Skapa bättre upplevelser med kundprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Konfigurera och administrera {#setup-and-admin}
    + Datakällor {#data-sources}
@@ -36,7 +36,7 @@ ht-degree: 2%
       + [Skapa en datakälla för olika enheter och autentisera](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Användarhantering {#user-management}
       + [Ange behörigheter med rollbaserad åtkomstkontroll](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
-   + Datastyrning och integritet {#data-governance-and-privacy}
+   + Datastyrning och sekretess {#data-governance-and-privacy}
       + [Validering av globalt enhets-ID](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Stöd för IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [IP-obefuscation per land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
@@ -46,13 +46,13 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Uppdaterar till DIL version 8.0 (eller senare)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (vidarebefordran på serversidan) {#ssf}
-      + [Använda Experience Platform-taggar för implementering på webbplatser](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Använd Experience Platform-taggar för implementering på webbplatser](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migrera webbplatsens AAM implementering från DIL på klientsidan till vidarebefordran på serversidan](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migrera från spårningsserver till vidarebefordran på serversidan på rapportnivå](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Använda tagghanterare för att implementera Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Identifiera ditt partner-ID eller underdomän](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Använd vedertagna metoder på SPA sidor](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ Integrera offlinedata {#integrating-offline-data}
++ Integrerar offlinedata {#integrating-offline-data}
    + [Formatera och importera filbaserade data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Steg för inhämtning av filbaserade data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobilimplementering {#mobile-implementation}
@@ -60,21 +60,21 @@ ht-degree: 2%
    + [Implementering i iOS Objective-C-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementera i Android-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Köpa data {#buying-data}
+   + Köper data {#buying-data}
       + [Rapportera dataanvändning för andra och tredje part i Audience Marketplace på segmentnivå](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Massöverföring av dataanvändning till Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Använd filter och rekommendationer för att välja data från tredje part i Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + Försäljningsdata {#selling-data}
       + [Kommunicera om egna målgrupper på Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ Bygg och hantera målgrupper {#build-and-manage-audiences}
++ Skapa och hantera målgrupper {#build-and-manage-audiences}
    + Datautforskaren {#data-explorer}
-      + [Använd kontrollpanelen Signaler för att snabbt visa de viktigaste tillgängliga signalerna](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
+      + [Använd kontrollpanelen Signaler för att snabbt visa de vanligaste tillgängliga signalerna](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Använd Data Explorer för att söka efter använda och oanvända nyckel/värde-par](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
       + [Spara sökningar i Data Explorer och återanvänd dem bekvämt](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
       + [Använd Data Explorer för att skapa retroaktiva egenskaper och segment](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
       + [Använd Data Explorer för att validera att trait creation skapas för on-boarddata](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
       + [Använd Data Explorer för att arbeta med signaler från Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
-   + Fällor och segment {#traits-and-segments}
+   + Traits and segments {#traits-and-segments}
       + [Skapa planegenskaper från analysdata](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
       + [Skapa en egen taxonomi](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
       + [Skapa ett regelbaserat varumärke](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
@@ -103,12 +103,12 @@ ht-degree: 2%
       + [Kundtips - god praxis för varumärken och segment](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algoritmiska modeller {#algorithmic-models}
       + [Förstå prediktiva målgrupper](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Konfigurera och rapportera om [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
-      + [Skapa en lookalike-modell från första part](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
+      + [Konfigurera och rapportera [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Skapa en look-alike-modell från första part](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Uteslut egenskaper i algoritmiska (lookalike) modeller](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Öka ROAS genom att använda algoritmiska (lookalike) modeller](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [Använda lookalike-modeller för att utöka utsålt lager från era egna data](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
-   + Sammanfogning av profil {#profile-merge}
+   + Profilsammanfogning {#profile-merge}
       + [Regler för profilsammanslagning](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Översikt över regler för profilsammanslagning](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Exempel på samkörningsregler och användningsexempel för profiler](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
@@ -117,7 +117,7 @@ ht-degree: 2%
       + [Använd regler för profilsammanslagning för att anpassa i ett autentiserat tillstånd](build-and-manage-audiences/profile-merge/using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
       + [Använd regler för profilsammanslagning för enhetstillägg och ökad räckvidd](build-and-manage-audiences/profile-merge/using-profile-merge-rules-for-device-extension-and-increased-reach.md)
       + [Översikt över förbättringar av profilkopplingsregel](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rule-enhancements.md)
-      + [Förbättringar av profilkopplingsregel - förutsättningar](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
+      + [Förbättrade regler för profilsammanslagning - förutsättningar](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
       + [Hur bättre profilkopplingsregel påverkar segmentering, aktivering och rapportering](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
       + [Tolka rapportering av målgruppsidentitet](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
       + [Förstå enhetsövergripande mätvärden i Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
@@ -132,7 +132,7 @@ ht-degree: 2%
       + [Använd Audience Lab för att välja en DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [Skapa konverteringsegenskaper](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
    + Personbaserade mål {#people-based-destinations}
-      + [Videor och självstudiekurser om personbaserade destinationer](data-activation/people-based-destinations/pbd.md)
+      + [Videor och självstudiekurser om personbaserade mål](data-activation/people-based-destinations/pbd.md)
       + [Personbaserat måldataflöde](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
       + [Skapa en datakälla för personbaserade mål](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
       + [Förstå Hash-kodad PII-datainmatning för personbaserade destinationer](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
@@ -150,7 +150,7 @@ ht-degree: 2%
    + [Använd Audience Optimization-rapporter för att förstå medieprestanda](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andra integreringar {#other-integrations}
    + Integrera med Real-time Customer Data Platform {#integrating-with-rtcdp}
-      + [Infoga data med Adobe Audience Manager dataanslutning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Förstå inmatning av data från första part i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Förstå inmatning av webbdata i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Förstå scheman och XDM i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)

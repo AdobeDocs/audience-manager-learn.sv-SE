@@ -10,14 +10,14 @@ level: Beginner
 exl-id: 903f8329-a434-4938-b190-600fc03b571d
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Förstå gränssnittet Matcha hastighet i Audience Manager
 
-I den här videon får du hjälp med [!UICONTROL Destination] gränssnitt som visar och förklarar antalet som är kopplade till matchningsfrekvenser och adresserbara målgrupper.
+I den här videon visas hur du använder gränssnittet [!UICONTROL Destination] och de nummer som är associerade med matchningsfrekvenser och adresserbara målgrupper visas och förklaras.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 

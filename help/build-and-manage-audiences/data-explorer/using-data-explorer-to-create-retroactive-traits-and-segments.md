@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ I den här videon visas hur du skapar retroaktiva egenskaper, t.ex. egenskaper s
 
 Fram tills nu, när du har skapat egenskaper, samlar de bara in data när du går framåt. Det innebar att ni måste skapa många egenskaper om de skulle få trafik eller data. Nu kan du vänta och se vilka nyckel/värde-par som tar emot data och sedan skapa ett trait och fylla i data igen. Detta sparar tid och energi och hjälper dig även att hålla din egen taxonomi nära till hands, i stället för att ha flera egenskaper som inte har data.
 
-Mer information om [!DNL Data Explorer], besök [Data Explorer - Översikt, Fördelar och Användningsexempel](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Mer information om [!DNL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

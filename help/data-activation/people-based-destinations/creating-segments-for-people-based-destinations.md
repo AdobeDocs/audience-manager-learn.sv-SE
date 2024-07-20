@@ -1,6 +1,6 @@
 ---
 title: Skapa segment för personbaserade destinationer
-description: I den här videon får du hjälp med att skapa ett segment i Audience Manager som ska användas för personbaserade destinationer.
+description: Den här videon visar hur du skapar ett segment i Audience Manager som ska användas för personbaserade destinationer.
 feature: People-based Destinations
 activity: setup
 doc-type: feature video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Skapa segment för personbaserade destinationer
 
-I den här videon får du hjälp med att skapa ett segment i Audience Manager som ska användas för personbaserade destinationer.
+Den här videon visar hur du skapar ett segment i Audience Manager som ska användas för personbaserade destinationer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

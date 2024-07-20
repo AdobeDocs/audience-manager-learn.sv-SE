@@ -13,7 +13,7 @@ level: Beginner
 exl-id: b0ed3450-0a0b-4bc3-b579-b57bfea116d7
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ I den här videon identifierar vi fyra vanliga användningsfall för Audience Ma
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).

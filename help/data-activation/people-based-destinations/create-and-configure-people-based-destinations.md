@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Skapa och konfigurera [!UICONTROL People-based Destinations]
 
-I den här videon får du först information om förutsättningarna för att skapa ett personbaserat mål, och sedan visas även hur du konfigurerar ett integrerat konto (länk till partnern, till exempel [!DNL Facebook]). Sedan guidar vi dig igenom konfigurationen av själva destinationen.
+I den här videon visas först information om förutsättningarna för att skapa ett personbaserat mål. Sedan visas även hur du konfigurerar ett integrerat konto (länk till partnern, till exempel [!DNL Facebook]). Sedan guidar vi dig igenom konfigurationen av själva destinationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

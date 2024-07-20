@@ -13,7 +13,7 @@ level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ När ni tar in era första leverantörer i Audience Manager för att bättre fö
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Om du vill se en video om filnamn och import klickar du på [HÄR](steps-for-ingesting-file-based-data.md).
+Klicka [HERE](steps-for-ingesting-file-based-data.md) om du vill se en video om filnamngivning och import.
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

@@ -13,20 +13,20 @@ level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
 # Öka ROAS genom att använda algoritmiska (Look-Alike) modeller i Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
-Den verkliga kraften hos Audience Manager ser lika ut [!UICONTROL Modeling] kommer när ni vill utöka er målgrupp mot en helt ny uppsättning användare av hög kvalitet från externa och externa datakällor. I den här självstudiekursen får du lära dig hur du skapar en modell utifrån dessa data.
+Den verkliga styrkan hos Audience Manager Look-alike [!UICONTROL Modeling] kommer när du försöker utöka din baslinje mot en ny uppsättning kvalitetsanvändare från andra parts och tredjeparts datakällor. I den här självstudiekursen får du lära dig hur du skapar en modell utifrån dessa data.
 
 ## Aktivera dataströmmar från andra leverantörer eller tredje part från Audience Marketplace {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
 
 För att kunna använda data från andra leverantörer och tredje part i en lookalike-modell måste vi först aktivera dessa data i Audience Manager-gränssnittet. Adobe har ett stort antal tredjeparts- och tredjepartsdataleverantörer som du kan välja mellan. Dessa finns i ett självbetjäningsgränssnitt i AAM via Audience Marketplace. Navigera till Audience Marketplace och bläddra bland alternativen. I följande video visas hur du gör detta, inklusive hur du aktiverar kostnadsfria &quot;try before you buy&quot;-strömmar så att du kan låsa in de data som kommer att vara mest användbara för din organisation innan du bestämmer dig för dataleverantörens priser.
 
-En bra resurs är också att [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
+För att du ska kunna utforska och avgöra vilken dataleverantör som ska användas är en bra resurs [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
@@ -34,17 +34,17 @@ En bra resurs är också att [[!DNL Adobe Audience Finder]](https://www.adobe-au
 
 Vad försöker du få folk att göra på din sajt? Vad är din konverteringshändelse? Det finns förstås många olika svar på den här frågan, beroende på webbplatstyp/vertikal och organisationens mål. I vilket fall som helst är det vanligt att AAM skapar en egenskap för besökare som uppfyller dessa kriterier.
 
-I videon nedan visar jag hur du skapar en konverteringskedja som du vill ha på plats när du fortsätter med kursen och skapar en look-alike-modell.
+I videon nedan visar jag hur du skapar en konverteringskedja som du vill ha på plats när du fortsätter igenom kursen och skapar en look-alike-modell.
 
 När du använder Adobe Analytics-händelser för att skapa egenskaper är det dessutom mycket viktigt att tänka på, så att du inte samlar in fler användare än du borde i trakten. Titta på följande video för den stora avslöjandet. :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**OBS!** I videon ovan förutsätter exemplet att du har Adobe Analytics. Så är inte fallet. Om du har Google Analytics (GA) har vi en modul som du kan använda för att skicka data till AAM (se [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)) och om konverteringsaktiviteten på webbplatsen skickas till AAM av GA kan du skapa en konverteringsegenskap utifrån detta. Om ni har en annan analyslösning (eller ingen analyslösning) kan ni ändå skicka in data till AAM via vår DIL-kod och `submit` funktion osv. (se [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Skapa sedan konverteringsegenskapen baserat på data som skickas när konverteringsaktiviteten utförs på webbplatsen.
+**OBS!** I videon ovan antar jag att du har Adobe Analytics. Så är inte fallet. Om du har Google Analytics (GA) har vi en modul som du kan använda för att skicka data till AAM (se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Om din konverteringsaktivitet på din webbplats skickas till AAM av GA kan du skapa din konverteringsegenskap utifrån detta. Om du har en annan analyslösning (eller ingen analyslösning) kan du ändå skicka in data till AAM via vår DIL-kod och funktionen `submit`, osv. (se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Skapa sedan konverteringsegenskapen baserat på data som skickas när konverteringsaktiviteten utförs på webbplatsen.
 
 ## Skapa en look-Alike-modell av data från andra leverantörer eller tredje part {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
-När vi har slutfört stegen ovan är vi nu redo att skapa en algoritmisk modell (Look-alike). När vi skapar modellen kommer vi att använda konverteringsegenskapen som grundegenskap (nyckelbesökare som vi vill duplicera), och vi kommer att använda den aktiverade dataströmmen från tredje part som vår personpool att hämta från.
+När vi har slutfört stegen ovan kan vi nu skapa en algoritmisk modell (Look-alike). När vi skapar modellen kommer vi att använda konverteringsegenskapen som grundegenskap (nyckelbesökare som vi vill duplicera), och vi kommer att använda den aktiverade dataströmmen från tredje part som vår personpool att hämta från.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
@@ -54,12 +54,12 @@ När vi skapar den algoritmiska modellen i Audience Manager vill vi naturligtvis
 
 ## Skapa en [!UICONTROL Algorithmic Trait] {#creating-an-algorithmic-trait}
 
-Därefter måste vi skapa en  [!UICONTROL Algorithmic Trait]så att modellens resultat kan användas. Utan att skapa ett drag är modellen värdelös. När modellen har körts måste du se till att gå till dialogrutan Egenskaper och skapa en [!UICONTROL Algorithmic Trait]. I följande video visas några tips.
+Därefter måste vi skapa en [!UICONTROL Algorithmic Trait] så att modellens resultat kan användas. Utan att skapa ett drag är modellen värdelös. När modellen har körts måste du gå till dialogrutan Egenskaper och skapa en [!UICONTROL Algorithmic Trait]. I följande video visas några tips.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
 ## Skapa ett segment från modelldata och skicka det till DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 
-När du har skapat en [!UICONTROL Algorithmic Trait]kan du skapa ett nytt segment att placera det i så att du kan aktivera data (du kan inte aktivera ett drag, utan i stället skapa ett nytt entraitetssegment med [!UICONTROL Algorithmic Trait] så att du kan aktivera (använda) segmentet).
+När du har skapat en [!UICONTROL Algorithmic Trait] kan du skapa ett nytt segment som du kan placera den i, så att du kan aktivera data (du kan inte aktivera en egenskap, utan i stället skapa ett nytt entraitetssegment med [!UICONTROL Algorithmic Trait] i det, så att du kan aktivera (använda) segmentet).
 
-När du har skapat ett segment utifrån denna algoritmiska egenskap har du en publik med potentiella kunder som ser ut som personer som redan har konverterat på din webbplats. Nu kan du mappa det här segmentet till alla dina DSP mål i Audience Manager. Ni kommer att kunna inrikta er på marknadsföring mot de där lookagilla-markeringarna, som är mer benägna att konvertera på er webbplats än bara den vanliga publiken, vilket ökar avkastningen på annonskostnaderna.
+När du har skapat ett segment utifrån denna algoritmiska egenskap har du en publik med potentiella kunder som ser ut som personer som redan har konverterat på din webbplats. Nu kan du mappa det här segmentet till någon av dina DSP destinationer i Audience Manager. Ni kommer att kunna inrikta er på marknadsföring mot de där lookagilla-markeringarna, som är mer benägna att konvertera på er webbplats än bara den vanliga publiken, vilket ökar avkastningen på annonskostnaderna.

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Använd [!UICONTROL Recency] och [!UICONTROL Frequency] i segment
 
-Använd [!UICONTROL Recency] och [!UICONTROL Frequency] för att ge era segmentparametrar hur många gånger en besökare måste kvalificera sig för en egenskap inom en viss tidsperiod. Perfekt när det gäller innehållets affinitet och användning av frekvensbegränsning med mera.
+Använd [!UICONTROL Recency] och [!UICONTROL Frequency] om du vill ge segmentparametrarna hur många gånger en besökare måste kvalificera sig för en egenskap inom en viss tidsperiod. Perfekt när det gäller innehållets affinitet och användning av frekvensbegränsning med mera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

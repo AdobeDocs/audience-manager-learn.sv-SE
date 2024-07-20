@@ -1,6 +1,6 @@
 ---
-title: Konfigurera förfallodatum för trait med [!UICONTROL Time-to-Live] (TTL)
-description: Lär dig att hitta och ställa in [!UICONTROL Time to Live] (TTL) i Audience Manager. Använd den här inställningen när du skapar egenskaper, som anger att medlemskapet i egenskapen ska upphöra att gälla om en användare inte kvalificerar om sig inom den angivna tidsperioden.
+title: Konfigurera trait-förfallodatum med [!UICONTROL Time-to-Live] (TTL)
+description: Lär dig hur du söker efter och anger [!UICONTROL Time to Live] (TTL) i Audience Manager. Använd den här inställningen när du skapar egenskaper, som anger att medlemskapet i egenskapen ska upphöra att gälla om en användare inte kvalificerar om sig inom den angivna tidsperioden.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera förfallodatum för trait med [!UICONTROL Time-to-Live] (TTL)
+# Konfigurera trait-förfallodatum med [!UICONTROL Time-to-Live] (TTL)
 
-En av inställningarna när du skapar egenskaper är [!UICONTROL Time to Live] (TTL), vilket är en förfallotid för medlemskap i trait om du inte är berättigad igen inom den angivna tidsperioden. I den här videon visas hur du ser och ställer in den här funktionen.
+En av inställningarna när du skapar egenskaper är inställningen [!UICONTROL Time to Live] (TTL), som är en förfallotid för medlemskap i egenskapen om du inte kvalificerar om inom den angivna tidsperioden. I den här videon visas hur du ser och ställer in den här funktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

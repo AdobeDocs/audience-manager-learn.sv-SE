@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Självstudiekurser för Audience Manager
 
-Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ger er en bättre förståelse för hur ni kan använda Adobe Audience Manager för att skapa och aktivera målgrupper i alla kanaler och enheter med hjälp av Adobe i toppklass [!DNL data management platform].
+Välkommen till självstudiewebbplatsen för Audience Manager. Om du använder dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) får du en bättre förståelse för hur du använder Adobe Audience Manager för att skapa och aktivera målgrupper på alla kanaler och enheter med hjälp av Adobe bästa i-klass [!DNL data management platform].
 
 * **Personalval** markerar en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och ämne i **vänster navigering**
-* Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
+* Utforska innehållet efter ämne och underämne i **vänster navigering**
+* Använd fältet **sök** längst upp på sidan om du vet vad du söker efter
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,7 +43,7 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
-    <strong>Implementera Adobe Experience Cloud med Web SDK, genomgång</strong>
+    <strong>Implementera Adobe Experience Cloud med Web SDK, självstudiekurs</strong>
     </a>
     </div>
     <p>
@@ -56,11 +56,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-    <strong>Förstå segment i CDP för Audience Manager i realtid</strong>
+    <strong> Förstå segment i CDP för Audience Manager i realtid </strong>
     </a>
     </div>
     <p>
-    <em>I den här videon visas skillnaderna mellan segment och segmentskapande mellan Audience Manager och CDP i realtid.</em>
+    <em>Den här videon tittar på skillnaderna mellan segment och segmentskapande mellan CDP för Audience Manager och realtid.</em>
     <p>
   </td>
   <td>
@@ -69,7 +69,7 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Konfigurera och rapportera om prediktiva målgrupper i Audience Manager</strong>
+    <strong> Konfigurera och rapportera om prediktiva målgrupper i Audience Manager </strong>
     </a>
     </div>
     <p>

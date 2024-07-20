@@ -11,7 +11,7 @@ kt: 7272
 exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ När du går från Audience Manager till Real-time Customer Data Platform (CDP i
 
 Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
-* [Förstå XDM-systemet och Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+* [Förstå XDM-systemet och upplevelsedatamodellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
 * [Skapa scheman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 * [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

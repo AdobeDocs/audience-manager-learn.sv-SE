@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa en [!UICONTROL Data Source] för personbaserade destinationer
+# Skapar en [!UICONTROL Data Source] för personbaserade mål
 
-I den här videon får du hjälp med att skapa en [!UICONTROL Data Source] i Audience Manager som ska användas för personbaserade destinationer.
+I den här videon får du hjälp med att skapa en [!UICONTROL Data Source] i Audience Manager som ska användas för personbaserade mål.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

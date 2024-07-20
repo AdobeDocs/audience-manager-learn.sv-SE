@@ -10,17 +10,17 @@ level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Förstå Audience Manager [!UICONTROL Destination] typer
+# Förstå Audience Manager [!UICONTROL Destination]-typer
 
 I den här videon får du hjälp med de olika destinationstyperna i Adobe Audience Manager och exempel på när du ska använda var och en av dem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Du kan se en lista över tillgängliga server-till-server-målpartners i [Audience Manager enhetsbaserad måldokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+En lista över tillgängliga server-till-server-målpartners finns i [Audience Manager Device-based Destinations-dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Ytterligare information om destinationer finns på [Destinationer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) i produktdokumentationen.
+Mer information om destinationer finns på [Destinationer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) i produktdokumentationen.

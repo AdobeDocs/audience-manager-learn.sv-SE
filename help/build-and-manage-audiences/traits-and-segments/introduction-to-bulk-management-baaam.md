@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Introduktion till grupphantering (BAAAM)
 
-Läs om Audience Manager [!UICONTROL Bulk Management] verktyg, kallas ofta&quot;BAAAM&quot;. Se hur du autentiserar så att du kan använda BAAAM-bladet för att skapa, redigera och ta bort egenskaper och segment via REST API.
+Lär dig mer om verktyget Audience Manager [!UICONTROL Bulk Management], som ofta kallas&quot;BAAAM&quot;. Se hur du autentiserar så att du kan använda BAAAM-bladet för att skapa, redigera och ta bort egenskaper och segment via REST API.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
