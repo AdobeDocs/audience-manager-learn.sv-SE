@@ -4,7 +4,7 @@ user-guide-description: En samling videor och självstudiekurser om Adobe Analyt
 breadcrumb-title: Självstudiekurser om Audience Manager
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -16,8 +16,8 @@ ht-degree: 2%
 
 + [Självstudiekurser för Audience Manager](overview.md)
 + Introduktion till Audience Manager {#intro-to-audience-manager}
-   + [Hur en datahanteringsplattform kan förändra ert företag](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
-   + [Audience Manager - Översikt över en datahanteringsplattform](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
+   + [Hur DMP kan förändra er verksamhet](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
+   + [Audience Manager - översikt över en DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Användningsexempel i Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Förstå grundläggande termer och begrepp](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Förstå dataflödet i Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [Ange behörigheter med rollbaserad åtkomstkontroll](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Datastyrning och sekretess {#data-governance-and-privacy}
       + [Validering av globalt enhets-ID](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [Stöd för IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [Stöd för IAB TCF 2.2](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [IP-obefuscation per land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Användning och fakturering {#usage-and-billing}
       + [Övervaka och rapportera aktivitetsanvändning](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
