@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Med rollbaserad åtkomstkontroll i Adobe Audience Manager kan ni hantera behörigheter på gruppnivå och styra vem som får se och arbeta med mediefiler, inklusive egenskaper, segment, mål och modeller. Lär dig hur du konfigurerar behörighetsgrupperna och lägger till användare till dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449391/?quality=12&learn=on&captions=swe)
