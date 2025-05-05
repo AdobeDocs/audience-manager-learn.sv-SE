@@ -32,4 +32,4 @@ Visa videoklipp och självstudiekurser för profilsammanfogningsfunktioner, inkl
 * [Tolka målgruppsidentitetsrapportering](interpret-audience-identity-reporting.md)
 * [Förstå enhetsövergripande statistik i Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Dessa videoklipp kan användas tillsammans med [dokumentationen för profilkopplingsregler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Dessa videoklipp kan användas tillsammans med [dokumentationen för profilkopplingsregler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=sv-SE)

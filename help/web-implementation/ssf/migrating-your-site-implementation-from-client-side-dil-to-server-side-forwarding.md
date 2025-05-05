@@ -74,7 +74,7 @@ I följande steg beskrivs implementeringen.
 
 Den viktigaste förutsättningen för att gå över till vidarebefordran på serversidan är att Experience Cloud ID-tjänsten är implementerad. Detta är enklast om du använder Experience Platform Launch, och då installerar du bara ECID-tillägget så gör det resten.
 
-Om du använder ett TMS som inte är Adobe eller inget TMS alls implementerar du ECID för att köra **före** några andra Adobe-lösningar. Mer information finns i [ECID-dokumentationen](https://experienceleague.adobe.com/docs/id-service/using/home.html). Den enda andra förutsättningen är kodversioner, så när du bara använder de senaste versionerna av koden i följande steg kommer du att klara dig.
+Om du använder ett TMS som inte är Adobe eller inget TMS alls implementerar du ECID för att köra **före** några andra Adobe-lösningar. Mer information finns i [ECID-dokumentationen](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=sv-SE). Den enda andra förutsättningen är kodversioner, så när du bara använder de senaste versionerna av koden i följande steg kommer du att klara dig.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Om du inte vidarebefordrar data från [!DNL Analytics] till Audience Manager på
 
 ![false](assets/falsesuccess.png)
 
-Mer information om vidarebefordran på serversidan finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Mer information om vidarebefordran på serversidan finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=sv-SE).

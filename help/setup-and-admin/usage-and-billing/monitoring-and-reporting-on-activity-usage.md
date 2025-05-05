@@ -24,4 +24,4 @@ I den här videon går vi igenom hur du använder [!UICONTROL Activity Usage Rep
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=sv-SE).

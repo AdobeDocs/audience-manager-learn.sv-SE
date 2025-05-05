@@ -24,6 +24,6 @@ I den här videon får du hjälp med att skapa en [!UICONTROL People-Based Desti
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=sv-SE).
 
 Du kan också hitta ytterligare videofilmer om personbaserade mål [HERE](https://adobe.ly/aamlearnpbd).

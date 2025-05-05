@@ -26,4 +26,4 @@ En av de kraftfullaste funktionerna i Audience Manager är möjligheten att läg
 
 I många fall skapar du egenskaper för inbyggda data innan du faktiskt lägger in data. Det är dock möjligt att nya nycklar och värden läggs till under tiden, och du kanske inte längre har alla egenskaper du behöver för att utnyttja dessa fantastiska data. Med [!UICONTROL Data Explorer] kan du göra en snabb sökning för att se alla dina ombord-data och filtrera dem efter specifika [!UICONTROL Data Source], eller till och med filtrera ned dem efter nyckeln och/eller värdet. Med den här sökningen kan du effektivt validera dina data.
 
-Mer information om [!DNL Data Explorer] finns på [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Mer information om [!DNL Data Explorer] finns på [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=sv-SE](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

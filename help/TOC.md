@@ -25,11 +25,11 @@ ht-degree: 2%
    + Värdeberäkning {#value-realization}
       + [Mäta avkastningen i ett fall där kunden undertrycks](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Branschnyheter och trender {#industry}
-   + [Framtiden för datahantering och den föränderliga miljön](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [10 saker att tänka på vid ansvarsfull kunddatahantering](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [En tabell med två perceptioner - Varumärken jämfört med konsumenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Utvecklar ditt Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [Skapa bättre upplevelser med kundprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [Framtiden för datahantering och den föränderliga miljön](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=sv-SE)
+   + [10 saker att tänka på vid ansvarsfull kunddatahantering](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=sv-SE)
+   + [En tabell med två perceptioner - Varumärken jämfört med konsumenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=sv-SE)
+   + [Utvecklar ditt Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=sv-SE)
+   + [Skapa bättre upplevelser med kundprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=sv-SE)
 + Konfigurera och administrera {#setup-and-admin}
    + Datakällor {#data-sources}
       + [Skapa en datakälla för analysdata](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Uppdaterar till DIL version 8.0 (eller senare)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (vidarebefordran på serversidan) {#ssf}
-      + [Använd Experience Platform-taggar för implementering på webbplatser](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Använd Experience Platform-taggar för implementering på webbplatser](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=sv-SE)
       + [Migrera webbplatsens AAM implementering från DIL på klientsidan till vidarebefordran på serversidan](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migrera från spårningsserver till vidarebefordran på serversidan på rapportnivå](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Använda tagghanterare för att implementera Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,9 +56,9 @@ ht-degree: 2%
    + [Formatera och importera filbaserade data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Steg för inhämtning av filbaserade data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobilimplementering {#mobile-implementation}
-   + [Implementera i iOS Swift-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementering i iOS Objective-C-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Implementera i Android-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [Implementera i iOS Swift-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=sv-SE)
+   + [Implementering i iOS Objective-C-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=sv-SE)
+   + [Implementera i Android-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=sv-SE)
 + Audience Marketplace {#audience-marketplace}
    + Köper data {#buying-data}
       + [Rapportera dataanvändning för andra och tredje part i Audience Marketplace på segmentnivå](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -130,7 +130,7 @@ ht-degree: 2%
       + [Använd dataexportetiketter för att styra dataflödet](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Använd Audience Lab för att välja en DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [Skapa konverteringsegenskaper](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [Skapa konverteringsegenskaper](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=sv-SE)
    + Personbaserade mål {#people-based-destinations}
       + [Videor och självstudiekurser om personbaserade mål](data-activation/people-based-destinations/pbd.md)
       + [Personbaserat måldataflöde](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
@@ -150,7 +150,7 @@ ht-degree: 2%
    + [Använd Audience Optimization-rapporter för att förstå medieprestanda](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andra integreringar {#other-integrations}
    + Integrera med Real-time Customer Data Platform {#integrating-with-rtcdp}
-      + [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=sv-SE#sources)
       + [Förstå inmatning av data från första part i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Förstå inmatning av webbdata i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Förstå scheman och XDM i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)

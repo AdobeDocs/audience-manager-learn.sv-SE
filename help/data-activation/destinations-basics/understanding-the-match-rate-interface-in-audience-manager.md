@@ -21,4 +21,4 @@ I den här videon visas hur du använder gränssnittet [!UICONTROL Destination] 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Mer information finns på [Adresserbara målgrupper](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) i produktdokumentationen.
+Mer information finns på [Adresserbara målgrupper](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=sv-SE) i produktdokumentationen.

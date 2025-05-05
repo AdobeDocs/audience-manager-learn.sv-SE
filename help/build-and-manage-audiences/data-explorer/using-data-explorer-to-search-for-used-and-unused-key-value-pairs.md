@@ -26,4 +26,4 @@ I det dagliga arbetet i Audience Manager kan du snabbt behöva ta reda på om et
 
 För att ta reda på om en signal har skapats i ett spår behöver du inte längre hämta en BAAAM-fil och även [!UICONTROL Unused Signals]-rapporten. Nu kan du söka efter nyckelpar/värdepar i [!DNL Data Explorer], AKA-appen [!UICONTROL Signals] i AAM, och hitta nyckel/värde-par som är i sina egenskaper och som inte är det, alla i samma lista. Mycket tidsbesparande!
 
-Mer information om [!UICONTROL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Mer information om [!UICONTROL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=sv-SE).

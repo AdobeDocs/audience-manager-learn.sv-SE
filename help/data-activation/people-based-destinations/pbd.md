@@ -33,4 +33,4 @@ Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som
 * [Skapa och konfigurera personbaserade mål](create-and-configure-people-based-destinations.md)
 * [Förstå och konfigurera LinkedIn personbaserade mål](understanding-and-configuring-the-linkedin-pbd.md)
 
-Dessa videoklipp kan användas tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Dessa videoklipp kan användas tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=sv-SE).

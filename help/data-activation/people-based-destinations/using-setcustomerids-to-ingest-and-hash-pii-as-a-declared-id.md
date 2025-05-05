@@ -24,4 +24,4 @@ I den här videon får du lära dig varför och hur du använder Experience Clou
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=sv-SE).

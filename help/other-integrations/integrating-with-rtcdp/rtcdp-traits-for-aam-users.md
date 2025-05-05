@@ -26,6 +26,6 @@ När du går från Audience Manager till Real-time Customer Data Platform är de
 
 Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
-* [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [Skapa datauppsättningar och importera data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
-* [Skapa segment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=sv-SE#getting-started)
+* [Skapa datauppsättningar och importera data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=sv-SE#data-ingestion)
+* [Skapa segment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=sv-SE#segments)

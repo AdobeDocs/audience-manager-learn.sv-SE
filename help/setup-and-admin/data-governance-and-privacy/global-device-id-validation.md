@@ -89,13 +89,13 @@ När ett felaktigt ID för global enhet (IDFA, GAID osv.) skickas i realtid till
 
 ![felbild](assets/image_4_.png)
 
-Se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) för en lista över felkoder.
+Se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=sv-SE#api-and-sdk-code) för en lista över felkoder.
 
 ## Onboarding-ID för global enhet {#onboarding-global-device-ids}
 
-Förutom att skicka globala enhets-ID i realtid kan du även överföra [!DNL onboard]-data mot ID:n. Den här processen är densamma som när du registrerar data mot dina kund-ID:n (vanligtvis via nyckel/värde-par), men du använder helt enkelt rätt Data-Source ID:n så att data tilldelas till det globala enhets-ID:t. Dokumentation om introduktionsprocessen finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Kom ihåg att använda det globala ID:t för datakällan, beroende på vilken plattform du använder.
+Förutom att skicka globala enhets-ID i realtid kan du även överföra [!DNL onboard]-data mot ID:n. Den här processen är densamma som när du registrerar data mot dina kund-ID:n (vanligtvis via nyckel/värde-par), men du använder helt enkelt rätt Data-Source ID:n så att data tilldelas till det globala enhets-ID:t. Dokumentation om introduktionsprocessen finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=sv-SE#implementation-integration-guides). Kom ihåg att använda det globala ID:t för datakällan, beroende på vilken plattform du använder.
 
-Om felaktiga globala enhets-ID:n skickas via introduktionsprocessen visas felen i [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
+Om felaktiga globala enhets-ID:n skickas via introduktionsprocessen visas felen i [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=sv-SE#reporting).
 
 Här följer ett exempel på ett fel som skulle uppstå i den rapporten:
 

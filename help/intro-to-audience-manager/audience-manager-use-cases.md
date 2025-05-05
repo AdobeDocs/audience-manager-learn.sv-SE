@@ -24,4 +24,4 @@ I den här videon identifierar vi fyra vanliga användningsfall för Audience Ma
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=sv-SE).

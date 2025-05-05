@@ -22,7 +22,7 @@ När du skapar, redigerar eller tar bort egenskaper kan det vara ineffektivt och
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Mer information, inklusive hämtning av BAAAM-kalkylbladet, finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Mer information, inklusive hämtning av BAAAM-kalkylbladet, finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=sv-SE#reference).
 
 >[!IMPORTANT]
 >

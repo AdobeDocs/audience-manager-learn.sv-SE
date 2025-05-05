@@ -26,4 +26,4 @@ I den här videon får du lära dig hur du tar in offlinedata i Audience Manager
 
 Klicka [HERE](formatting-and-ingesting-file-based-data.md) om du vill se en video om dataformatering för inkommande filer.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=sv-SE).

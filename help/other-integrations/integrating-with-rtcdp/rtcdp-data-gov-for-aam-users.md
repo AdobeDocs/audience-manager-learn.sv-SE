@@ -26,7 +26,7 @@ I den här videon går Audience Manager igenom datastyrningsfunktionen i Real-ti
 
 Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
-* [Datastyrningsöversikt](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [Klassificera data med styrningsetiketter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [Skapa dataanvändningsprinciper](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Använd dataanvändningsprinciper i Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [Datastyrningsöversikt](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=sv-SE#data-governance)
+* [Klassificera data med styrningsetiketter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=sv-SE#data-governance)
+* [Skapa dataanvändningsprinciper](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=sv-SE#data-governance)
+* [Använd dataanvändningsprinciper i Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=sv-SE#data-governance)

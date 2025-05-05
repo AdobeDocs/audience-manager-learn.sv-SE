@@ -24,4 +24,4 @@ I den här videon går vi igenom konfigurationen för [!UICONTROL Predictive Aud
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=sv-SE).

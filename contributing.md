@@ -18,7 +18,7 @@ Detta projekt följer Adobes [uppförandekod](code-of-conduct.md). Genom att del
 
 ## Dokumentation för Contributor-handboken
 
-Se [Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Se [Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv-SE).
 
 ## Har du en fråga?
 
@@ -43,4 +43,4 @@ Vi älskar bidrag från vår community! Om du vill gå ett steg längre än medv
 
 ## Säkerhetsproblem
 
-Säkerhetsproblem ska inte rapporteras i den här felspåraren. Istället [skicka ett ärende till våra säkerhetsexperter](https://helpx.adobe.com/security/alertus.html)
+Säkerhetsproblem ska inte rapporteras i den här felspåraren. Istället [skicka ett ärende till våra säkerhetsexperter](https://helpx.adobe.com/se/security/alertus.html)

@@ -26,4 +26,4 @@ Genom att använda inbyggda och anpassade tabeller på [!UICONTROL Signals Dashb
 
 När du klickar dig igenom till [!UICONTROL Data Explorer], AKA-appen [!UICONTROL Signals], visas en standardinstrumentpanel för de översta signalerna samt nya signaler. Förutom dessa två standardinställningar kan du spara sökningar och lägga till dem på kontrollpanelen, så att du snabbt kan visa dina viktigaste data direkt på funktionens startsida.
 
-Mer information om [!UICONTROL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Mer information om [!UICONTROL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=sv-SE).

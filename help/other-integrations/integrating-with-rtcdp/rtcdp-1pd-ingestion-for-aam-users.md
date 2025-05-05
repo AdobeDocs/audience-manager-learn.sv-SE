@@ -27,9 +27,9 @@ I den här videon diskuteras dataöverföring från första part till Real-time 
 
 Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
-* [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Översikt över dataöverföring vid strömning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
-* [Översikt över överföring av gruppdata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
-* [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [Skapa datauppsättningar](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [Skapa segment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=sv-SE#sources)
+* [Översikt över dataöverföring vid strömning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=sv-SE#data-ingestion)
+* [Översikt över överföring av gruppdata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=sv-SE#data-ingestion)
+* [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=sv-SE#getting-started)
+* [Skapa datauppsättningar](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=sv-SE#permissions-required)
+* [Skapa segment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=sv-SE#segments)

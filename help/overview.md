@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Självstudiekurser för Audience Manager
 
-Välkommen till självstudiewebbplatsen för Audience Manager. Om du använder dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) får du en bättre förståelse för hur du använder Adobe Audience Manager för att skapa och aktivera målgrupper på alla kanaler och enheter med hjälp av Adobe bästa i-klass [!DNL data management platform].
+Välkommen till självstudiewebbplatsen för Audience Manager. Om du använder dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=sv-SE) får du en bättre förståelse för hur du använder Adobe Audience Manager för att skapa och aktivera målgrupper på alla kanaler och enheter med hjälp av Adobe bästa i-klass [!DNL data management platform].
 
 * **Personalval** markerar en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och underämne i **vänster navigering**
@@ -38,11 +38,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Om du använder d
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=sv-SE">
       <img alt="miniatyrbild för självstudiekursen Implementera Adobe Experience Cloud med Web SDK" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=sv-SE">
     <strong>Implementera Adobe Experience Cloud med Web SDK, självstudiekurs</strong>
     </a>
     </div>
@@ -51,11 +51,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Om du använder d
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=sv-SE">
       <img alt="miniatyrbild för självstudiekursen Förstå segment i realtid (CDP)" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=sv-SE">
     <strong> Förstå segment i CDP för Audience Manager i realtid </strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Om du använder d
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=sv-SE">
       <img alt="miniatyrbild för självstudiekursen&quot;Konfigurera och rapportera om prediktiva målgrupper i Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=sv-SE">
     <strong> Konfigurera och rapportera om prediktiva målgrupper i Audience Manager </strong>
     </a>
     </div>

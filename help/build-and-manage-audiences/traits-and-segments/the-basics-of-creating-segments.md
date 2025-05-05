@@ -24,4 +24,4 @@ Gå igenom fälten i användargränssnittet för att skapa ett segment i Audienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Mer information om segment finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Mer information om segment finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=sv-SE).

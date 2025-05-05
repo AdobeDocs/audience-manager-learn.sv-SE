@@ -28,4 +28,4 @@ Det är troligt att en av era viktigaste datakällor som kommer in i Audience Ma
 
 [!UICONTROL Data Explorer] är förberedd och redo att hjälpa dig att se vad som kommer in från olika rapportsviter, och när du upptäcker [!DNL Analytics]-signaler som ännu inte används i egenskaper kan du klicka direkt på [!DNL Trait Builder] och skapa egenskaperna för att använda dessa kraftfulla beteendedata i din segmentering.
 
-Mer information om [!DNL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Mer information om [!DNL Data Explorer] finns på [Data Explorer - Översikt, Fördelar och Användningsexempel](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=sv-SE).

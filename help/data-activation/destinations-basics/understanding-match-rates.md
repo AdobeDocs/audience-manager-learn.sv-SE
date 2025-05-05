@@ -21,4 +21,4 @@ I den här videon får du hjälp att förstå matchningsfrekvenser i Adobe Audie
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=sv-SE).

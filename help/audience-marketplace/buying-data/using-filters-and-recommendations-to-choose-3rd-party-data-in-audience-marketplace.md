@@ -24,4 +24,4 @@ Den här videon går igenom alternativen för filter och rekommendationer i [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=sv-SE).

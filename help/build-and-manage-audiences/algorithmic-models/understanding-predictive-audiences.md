@@ -24,4 +24,4 @@ I den här videon får du lära dig mer om Audience Manager [!UICONTROL Predicti
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=sv-SE).

@@ -26,6 +26,6 @@ I den här videon visas för Audience Manager vilka koncept som används för at
 
 Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
-* [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Adobe Experience Platform Web SDK Tutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Infoga data med Adobe Audience Manager-dataanslutningen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=sv-SE#sources)
+* [Adobe Experience Platform Web SDK Tutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=sv-SE)
+* [Skapa ett schema med Schemaredigeraren](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=sv-SE#getting-started)

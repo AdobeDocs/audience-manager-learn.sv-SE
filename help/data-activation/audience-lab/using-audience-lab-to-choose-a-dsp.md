@@ -32,4 +32,4 @@ Det är enkelt att skapa ett [!UICONTROL Audience Lab]-test och det kan göras p
 1. Kontrollera testsammanfattningen och aktivera testet
 1. När testet är klart kommer du åt resultaten på startsidan för [!UICONTROL Audience Lab]
 
-Mer information finns i [funktionsdokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).
+Mer information finns i [funktionsdokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=sv-SE).

@@ -40,7 +40,7 @@ Om du är osäker på om [!DNL tracking server forwarding] är aktiverat för di
 
 ## Vidarebefordran på serversidan på [!UICONTROL Report-suite]-nivå {#report-suite-level-server-side-forwarding}
 
-En av de största fördelarna med att gå över till vidarebefordran av [!UICONTROL report suite] från vidarebefordran av [!UICONTROL tracking server] är att du nu kan använda Audience Analytics, vilket är möjligheten att vidarebefordra Audience Manager [!UICONTROL segments] tillbaka till Adobe Analytics för detaljerad segmentanalys. Den här fantastiska funktionen stöds INTE om du fortfarande vidarebefordrar [!UICONTROL tracking server] och inte vidarebefordrar [!UICONTROL report suite]. Mer information om Audience Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+En av de största fördelarna med att gå över till vidarebefordran av [!UICONTROL report suite] från vidarebefordran av [!UICONTROL tracking server] är att du nu kan använda Audience Analytics, vilket är möjligheten att vidarebefordra Audience Manager [!UICONTROL segments] tillbaka till Adobe Analytics för detaljerad segmentanalys. Den här fantastiska funktionen stöds INTE om du fortfarande vidarebefordrar [!UICONTROL tracking server] och inte vidarebefordrar [!UICONTROL report suite]. Mer information om Audience Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

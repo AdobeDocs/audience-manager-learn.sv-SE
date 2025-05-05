@@ -21,6 +21,6 @@ I den här videon får du hjälp med de olika destinationstyperna i Adobe Audien
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-En lista över tillgängliga server-till-server-målpartners finns i [Audience Manager Device-based Destinations-dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+En lista över tillgängliga server-till-server-målpartners finns i [Audience Manager Device-based Destinations-dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=sv-SE).
 
-Mer information om destinationer finns på [Destinationer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) i produktdokumentationen.
+Mer information om destinationer finns på [Destinationer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=sv-SE) i produktdokumentationen.

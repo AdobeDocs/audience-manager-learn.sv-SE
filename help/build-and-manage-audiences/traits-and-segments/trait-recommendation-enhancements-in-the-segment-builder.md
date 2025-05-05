@@ -23,4 +23,4 @@ I den här videon får du lära dig hur du använder de uppdaterade trait-rekomm
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=sv-SE).

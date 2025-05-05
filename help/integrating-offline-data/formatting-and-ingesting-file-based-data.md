@@ -26,4 +26,4 @@ När ni tar in era första leverantörer i Audience Manager för att bättre fö
 
 Klicka [HERE](steps-for-ingesting-file-based-data.md) om du vill se en video om filnamngivning och import.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=sv-SE&).

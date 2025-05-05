@@ -25,4 +25,4 @@ Förstå huvudutmaningarna med kanalövergripande personalisering och hur Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=sv-SE).
